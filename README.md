@@ -1,2 +1,2 @@
 # UOLY2AppliedBiz
-Hands-on project for UOL Year 2 Applied Business Module
+Hands-on project for UOL Year 2 Applied Business Module using Tablau
